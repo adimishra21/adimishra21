@@ -1,80 +1,66 @@
-## Hi there 👋
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Interactive GitHub Profile</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 40px;
-            background-color: #f4f4f4;
-            color: #333;
-        }
-        .container {
-            max-width: 800px;
-            background: white;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        h1, h2 {
-            color: #0073e6;
-        }
-        a {
-            color: #0073e6;
-            text-decoration: none;
-        }
-        .tech-stack, .projects, .contact {
-            margin-top: 20px;
-        }
-        .badge {
-            display: inline-block;
-            margin-right: 10px;
-        }
-        .stats img {
-            width: 100%;
-            max-width: 400px;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>💻 Interactive GitHub Profile for Java Developer</h1>
-        <p>👋 Hello, I'm <strong>[Your Name]</strong>! Welcome to my GitHub profile! I'm a passionate Java developer specializing in building scalable and efficient applications using <strong>Spring Boot</strong> and <strong>Hibernate</strong>.</p>
-        
-        <p><img src="https://komarev.com/ghpvc/?username=yourusername&color=blue" alt="Profile Views"></p>
 
-        <div class="tech-stack">
-            <h2>🚀 Tech Stack</h2>
-            <ul>
-                <li>Java ☕</li>
-                <li><a href="https://spring.io/projects/spring-boot">Spring Boot</a></li>
-                <li><a href="https://hibernate.org/">Hibernate</a></li>
-                <li>RESTful APIs 🌐</li>
-                <li>Microservices Architecture 🏗️</li>
-            </ul>
-        </div>
+## 👋 Hello, I'm Aditya Kumar Mishra!
+Welcome to my GitHub profile! I'm a passionate Java developer specializing in building scalable and efficient applications using **Spring Boot** and **Hibernate**.
 
-        <div class="projects">
-            <h2>📂 Featured Projects</h2>
-            <p><a href="https://github.com/yourusername/project1" class="badge">Project 1</a> - A Spring Boot application with Hibernate integration.</p>
-            <p><a href="https://github.com/yourusername/project2" class="badge">Project 2</a> - A microservices-based architecture using Spring Cloud.</p>
-        </div>
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
-        <div class="stats">
-            <h2>📊 GitHub Stats</h2>
-            <p><img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats"></p>
-            <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages"></p>
-        </div>
+## 🚀 Tech Stack
+### Backend Technologies
+- **Java** ☕
+- **Spring Boot** [🔗](https://spring.io/projects/spring-boot)
+- **Hibernate** [🔗](https://hibernate.org/)
+- **RESTful APIs** 🌐
+- **Microservices Architecture** 🏗️
 
-        <div class="contact">
-            <h2>📫 Connect With Me</h2>
-            <p><a href="https://linkedin.com/in/yourprofile">LinkedIn</a></p>
-            <p><a href="mailto:your.email@example.com">Email</a></p>
-        </div>
-    </div>
-</body>
-</html>
+### Database & Cloud
+- **MySQL / PostgreSQL** 🗄️
+- **MongoDB** 📦
+- **AWS / Azure** ☁️
+- **Docker / Kubernetes** 🐳
+
+### Tools & Development
+- **Git & GitHub** 🛠️
+- **Maven / Gradle** ⚙️
+- **JUnit & Mockito** 🧪
+- **CI/CD Pipelines** 🚀
+
+## ⚡ Tools & Technologies
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" />
+</p>
+
+## 📂 Featured Projects
+- [![Project 1](https://img.shields.io/badge/GitHub-Project1-blue)](https://github.com/yourusername/project1) - A Spring Boot application with Hibernate integration.
+- [![Project 2](https://img.shields.io/badge/GitHub-Project2-green)](https://github.com/yourusername/project2) - A microservices-based architecture using Spring Cloud.
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+## 📫 Connect With Me
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/yourprofile)
+- Email: [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your.email@example.com)
+
+Let's build something amazing together! 🚀
