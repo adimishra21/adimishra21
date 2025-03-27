@@ -14,15 +14,14 @@ Welcome to my GitHub profile! I'm a passionate Java developer specializing in bu
 - **Microservices Architecture** 🏗️
 
 ### Database & Cloud
-- **MySQL / PostgreSQL** 🗄️
+- **MySQL** 🗄️
 - **MongoDB** 📦
-- **AWS / Azure** ☁️
-- **Docker / Kubernetes** 🐳
+- **AWS** ☁️
+- **Docker** 🐳
 
 ### Tools & Development
 - **Git & GitHub** 🛠️
 - **Maven / Gradle** ⚙️
-- **JUnit & Mockito** 🧪
 - **CI/CD Pipelines** 🚀
 
 ## ⚡ Tools & Technologies
@@ -45,10 +44,7 @@ Welcome to my GitHub profile! I'm a passionate Java developer specializing in bu
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black" />
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" />
 </p>
 
 ## 📂 Featured Projects
@@ -60,7 +56,7 @@ Welcome to my GitHub profile! I'm a passionate Java developer specializing in bu
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ## 📫 Connect With Me
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/yourprofile)
-- Email: [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your.email@example.com)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/aditya-kumar-mishra-8907aa221/)
+- Email: [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:adityably2163@gmail.com)
 
 Let's build something amazing together! 🚀
