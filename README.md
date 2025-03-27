@@ -48,12 +48,12 @@ Welcome to my GitHub profile! I'm a passionate Java developer specializing in bu
 </p>
 
 ## 📂 Featured Projects
-- [![Project 1](https://img.shields.io/badge/GitHub-Project1-blue)](https://github.com/yourusername/project1) - A Spring Boot application with Hibernate integration.
-- [![Project 2](https://img.shields.io/badge/GitHub-Project2-green)](https://github.com/yourusername/project2) - A microservices-based architecture using Spring Cloud.
+- [![Project 1](https://img.shields.io/badge/GitHub-Project1-blue)](https://github.com/adimishra21/newsgeniusMain) - A Spring Boot application with Hibernate integration.
+- [![Project 2](https://img.shields.io/badge/GitHub-Project2-green)](https://github.com/adimishra21/adikrafoods) - A microservices-based architecture using Spring Cloud.
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adimishra21&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adimishra21&layout=compact&theme=radical)
 
 ## 📫 Connect With Me
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/aditya-kumar-mishra-8907aa221/)
