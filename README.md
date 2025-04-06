@@ -3,7 +3,7 @@
 ## 👋 Hello, I'm Aditya Kumar Mishra!
 Welcome to my GitHub profile! I'm a passionate Java developer specializing in building scalable and efficient applications using **Spring Boot** and **Hibernate**.
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=adimishra21&color=blue)
 
 ## 🚀 Tech Stack
 ### Backend Technologies
@@ -18,10 +18,12 @@ Welcome to my GitHub profile! I'm a passionate Java developer specializing in bu
 - **MongoDB** 📦
 - **AWS** ☁️
 - **Docker** 🐳
+- **Google Cloud Platform** 🌐
+- **Microsoft Azure** 🔷
 
 ### Tools & Development
 - **Git & GitHub** 🛠️
-- **Maven / Gradle** ⚙️
+- **Maven** ⚙️
 - **CI/CD Pipelines** 🚀
 
 ## ⚡ Tools & Technologies
